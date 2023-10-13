@@ -7,7 +7,7 @@ const CryptoContext = ({ children }) => {
   const [symbol, setSymbol] = useState("₨");
 
   useEffect(() => {
-    if (currency === "PKR") setSymbol("₨");
+    if (currency === "PKR") setSymbol("₨"); //Added Pakistani Currency (PKR)
     else if (currency === "INR") setSymbol("₹");
     else if (currency === "USD") setSymbol("$");
   }, [currency]);
