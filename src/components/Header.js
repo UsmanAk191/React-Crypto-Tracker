@@ -49,7 +49,7 @@ function Header() {
               variant="h6"
               className={classes.title}
             >
-              Crypto Hunter
+              Crypto Tracker
             </Typography>
             {/* <Button color="inherit">Login</Button> */}
             <Select
@@ -60,8 +60,8 @@ function Header() {
               style={{ width: 100, height: 40, marginLeft: 15 }}
               onChange={(e) => setCurrency(e.target.value)}
             >
+              <MenuItem value={"USD"}>USD</MenuItem> 
               <MenuItem value={"PKR"}>PKR</MenuItem>
-              <MenuItem value={"USD"}>USD</MenuItem>
               <MenuItem value={"INR"}>INR</MenuItem>
             </Select>
           </Toolbar>
