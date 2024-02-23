@@ -26,12 +26,5 @@ function App() {
     </BrowserRouter>
   );
 }
-
+// export the App component
 export default App;
-
-
-
-
-
-
-
