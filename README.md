@@ -45,11 +45,11 @@ Start the development server: `npm start`
 
 ## Contact
 - Usman Mahmood - @usmanX191 - usmanmehmood770@gmail.com
--Project Link: `https://github.com/usmanX191/react-crypto-tracker-app`
 
 ## Acknowledgements
 - Chart.js
 - Material-UI
 - React.js
-
+- Context-API
+- Restful-API
 
