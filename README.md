@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple steps.
 
 Ensure you have the latest version of npm installed: `npm install npm@latest -g`
 
-##Installation
+## Installation
 
 Clone the repository: `https://github.com/usmanX191/React-Crypto-Tracker.git`
 
