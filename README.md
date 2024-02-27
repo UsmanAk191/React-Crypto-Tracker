@@ -1,4 +1,4 @@
-# React.js Crypto Tracker WebApp
+# React.js Crypto Tracker Web Application
 
 
 ![crypto-tracker](https://github.com/usmanX191/React-Crypto-Tracker/assets/123594984/a62c9c3d-d0f4-44f2-a997-0cc1e653b65b)
@@ -45,8 +45,7 @@ Start the development server: `npm start`
 
 ## Contact
 - Usman Mahmood - @usmanX191 - usmanmehmood770@gmail.com
-
-Project Link: `https://github.com/usmanX191/react-crypto-tracker-app`
+-Project Link: `https://github.com/usmanX191/react-crypto-tracker-app`
 
 ## Acknowledgements
 - Chart.js
