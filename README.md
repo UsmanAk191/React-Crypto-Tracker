@@ -3,6 +3,7 @@
 
 ![crypto-tracker](https://github.com/usmanX191/React-Crypto-Tracker/assets/123594984/a62c9c3d-d0f4-44f2-a997-0cc1e653b65b)
 
+![crypto-tracker-2](https://github.com/usmanX191/React-Crypto-Tracker/assets/123594984/aa44a43a-5e5c-4f51-b11f-6c72e7354747)
 
 ## Overview
 The React.js Crypto Tracker App is a dynamic and user-friendly web application that provides real-time tracking of cryptocurrency prices and trends. Designed with the crypto enthusiast in mind, this app offers historical data visualization and market insights with support for multiple currencies.
