@@ -28,7 +28,7 @@ Check out the live demo of the app here: [React Crypto Tracker Live Demo](https:
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+## Prerequisites
 
 Ensure you have the latest version of npm installed: `npm install npm@latest -g`
 
